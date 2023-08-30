@@ -1,4 +1,4 @@
-# Projeto ReacTion-Notate
+# Projeto NotionClone
 
 Um clone do Notion desenvolvido em React e TypeScript. Este projeto oferece uma plataforma dinâmica e personalizável para criação de notas, tarefas e colaboração em tempo real.
 
